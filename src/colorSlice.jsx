@@ -14,7 +14,7 @@ const colorSlice=createSlice({
         }
 
     }
-
+// ----
 })
 export default colorSlice.reducer;
 export const {changeColor}=colorSlice.actions;
