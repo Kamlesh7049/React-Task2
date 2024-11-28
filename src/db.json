@@ -1,0 +1,59 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "rollno": 121,
+      "name": "Deepu",
+      "city": "indore",
+      "fees": 60000
+    },
+    {
+      "id": "2",
+      "rollno": 122,
+      "name": "Deepu",
+      "city": "indore",
+      "fees": 60000
+    },
+    {
+      "id": "3",
+      "rollno": 123,
+      "name": "Deepu",
+      "city": "indore",
+      "fees": 60000
+    },
+    {
+      "id": "159d",
+      "name": "megha",
+      "age": "27",
+      "city": "45000"
+    },
+    {
+      "id": "8a81",
+      "rollno": "123",
+      "name": "neha",
+      "city": "mumbai",
+      "fees": "200000"
+    },
+    {
+      "id": "894f",
+      "rollno": "145",
+      "name": "kumkum",
+      "city": "betul",
+      "fees": "100000"
+    },
+    {
+      "id": "1d1b",
+      "rollno": "146",
+      "name": "megha",
+      "city": "indore",
+      "fees": "3000"
+    },
+    {
+      "id": "46ec",
+      "rollno": "147",
+      "name": "munmun",
+      "city": "indore",
+      "fees": "20000"
+    }
+  ]
+}
